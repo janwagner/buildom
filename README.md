@@ -35,4 +35,4 @@ I'm Jan, designer turned developer with a lot of help from AI tooling. Buildom i
 
 ## License
 
-All rights reserved. The Buildom name, artwork, and game assets belong to Jan Wagner.
+All rights reserved.
