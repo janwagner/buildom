@@ -1,5 +1,7 @@
 # Buildom
 
+![Buildom](buildom.png)
+
 Reviving a 15-year-old game dream with modern AI workflows.
 
 Buildom is a 2D block game I first built years ago as a classic two-man team. I was the designer, spending days and nights pixeling the world: every block, every item, every sprite hand-drawn. Back then, most of that work never made it past a static image. Life got in the way, and the project froze.
